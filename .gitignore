@@ -1,1 +1,3 @@
 secret .gitignore
+*.txt
+secret.txt
