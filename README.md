@@ -1,1 +1,1 @@
-"# 我是說明文件" 
+"# Heroku儲存變數的方法: Flask+Redis+Heroku+line-bot" 
