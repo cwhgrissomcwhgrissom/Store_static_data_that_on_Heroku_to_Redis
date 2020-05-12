@@ -1,0 +1,15 @@
+line-bot-sdk
+flask
+flask_session
+flask_redis
+requests
+pandas
+bs4
+gunicorn
+lxml
+datetime
+redis
+
+
+
+
